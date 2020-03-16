@@ -25,5 +25,5 @@ Run the `MyCITool.py` script and provide a like of the repository you would like
 
 This version was designed to work with a single repository: https://github.com/guyyosan/python-cherry-container
 
-So, in order to execute it, copy this repository link and provide it as input to the tool.
+So, in order to execute it, copy this repository link and provide it as input to the tool. Provide your branch in order for the tool to pull the latest code and use it to test.
 It is developed as a proof of concept and is relatively simple. The input can be further parametrized and built upon.
